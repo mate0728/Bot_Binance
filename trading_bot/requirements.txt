@@ -1,0 +1,2 @@
+python-dotenv
+# add real exchange client libs as needed, e.g. python-binance

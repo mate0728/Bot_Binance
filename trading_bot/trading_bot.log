@@ -1,0 +1,14 @@
+2026-04-15 16:38:10,354 - INFO - Placing order: BTCUSDT BUY MARKET 0.01
+2026-04-15 16:38:11,498 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2026-04-15 17:01:37,494 - INFO - Placing order: BTCUSDT BUY MARKET 0.01
+2026-04-15 17:01:38,650 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-15 17:03:30,076 - INFO - Placing order: BTCUSDT BUY MARKET 0.01
+2026-04-15 17:03:31,316 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-15 17:07:31,846 - INFO - Placing order: BTCUSDT BUY MARKET 0.01
+2026-04-15 17:07:32,763 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-15 17:08:59,858 - INFO - Placing order: BTCUSDT BUY MARKET 0.01
+2026-04-15 17:09:00,603 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-15 17:15:27,694 - INFO - Placing order: BTCUSDT BUY MARKET 0.01
+2026-04-15 17:15:28,848 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-15 17:17:42,044 - INFO - Placing order: BTCUSDT SELL LIMIT 0.01
+2026-04-15 17:17:42,811 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
